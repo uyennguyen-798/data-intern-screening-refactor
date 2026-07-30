@@ -7,16 +7,18 @@
 ### Features:
 - Add candidate
 - View candidate list
-- Generate statistics
+- Display statistics
 - Search candidate
 #### Technologies:
 Python 3
-##### Using:
-- Separating functions
-- Return
-- Try...except
-- If...elif...else
-- List
-- Dictionary
-- If not...
-- While...break
+##### Python Concepts Used:
+- Functions
+- Function decomposition
+- return
+- try...except
+- if / elif / else
+- while loop
+- break
+- list
+- dictionary
+- enumerate()

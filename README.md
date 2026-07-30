@@ -2,7 +2,8 @@
 - This repository documents my self-learning journey in Python and Data Science before officially enrolling in a university as a Data Science major.
 - This project is a refactored version of my first Python application: **Data Intern Screening System**.
 ## Description:
-A refactored Python console application for managing data science interns.
+- A refactored Python console application for managing data science interns.
+- The project focuses on writing cleaner, reusable, and more maintainable code.
 ### Features:
 - Add candidate
 - View candidate list

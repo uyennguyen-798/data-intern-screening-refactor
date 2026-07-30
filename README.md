@@ -7,7 +7,7 @@
 ### Features:
 - Add candidate
 - View candidate list
-- Statistics
+- Generate statistics
 - Search candidate
 #### Technologies:
 Python 3
